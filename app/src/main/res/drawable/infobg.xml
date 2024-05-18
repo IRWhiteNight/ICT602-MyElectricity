@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Project Name: My Electricity
+  ~ Created by Mohamad Ikhwan Rosdi
+  ~ Copyright © 2024. All rights reserved.
+  ~ Last modified 08/05/2024, 1:54 am
+  ~
+  -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#b0a0ba"></solid>
+    <corners android:radius="10dp"></corners>
+</shape>

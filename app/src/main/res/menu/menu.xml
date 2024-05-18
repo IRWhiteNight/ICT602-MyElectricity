@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Project Name: My Electricity
+  ~ Created by Mohamad Ikhwan Rosdi
+  ~ Copyright © 2024. All rights reserved.
+  ~ Last modified 05/05/2024, 9:29 am
+  ~
+  -->
+
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuAbout"
+        android:title="About" />
+    <item
+        android:id="@+id/menuTutorial"
+        android:title="Tutorial" />
+</menu>

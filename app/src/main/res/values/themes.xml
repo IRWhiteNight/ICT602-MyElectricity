@@ -1,0 +1,21 @@
+<!--
+  ~ Project Name: My Electricity
+  ~ Created by Mohamad Ikhwan Rosdi
+  ~ Copyright © 2024. All rights reserved.
+  ~ Last modified 05/05/2024, 11:07 am
+  ~
+  -->
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MyElectricity" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <!--item name="android:textColorPrimary">@android:color/white</item-->
+        <item name="colorPrimaryDark">#140014</item>
+        <item name="colorPrimary">#140014</item>
+    </style>
+
+    <style name="ToolbarStyle" parent="Widget.AppCompat.ActionBar">
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/white</item>
+    </style>
+</resources>

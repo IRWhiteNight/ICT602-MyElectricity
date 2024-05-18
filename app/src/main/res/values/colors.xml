@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Project Name: My Electricity
+  ~ Created by Mohamad Ikhwan Rosdi
+  ~ Copyright © 2024. All rights reserved.
+  ~ Last modified 05/05/2024, 12:04 pm
+  ~
+  -->
+
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--color name="ColorPrimary">#A020F0</color-->
+    <color name="colorPrimaryDark">#A020F0</color>
+    <color name="ColorPrimary">#140014</color>
+    <color name="round">#2b002b</color>
+    <color name="green">#4dff76</color>
+    <color name="seconddesign">#b05ae6</color>
+
+</resources>

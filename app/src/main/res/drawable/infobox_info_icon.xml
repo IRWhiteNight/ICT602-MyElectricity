@@ -1,0 +1,23 @@
+<!--
+  ~ Project Name: My Electricity
+  ~ Created by Mohamad Ikhwan Rosdi
+  ~ Copyright © 2024. All rights reserved.
+  ~ Last modified 08/05/2024, 12:00 am
+  ~
+  -->
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="300dp"
+    android:height="300dp"
+    android:viewportWidth="160"
+    android:viewportHeight="160">
+  <path
+      android:pathData="m80,15c-35.88,0 -65,29.12 -65,65s29.12,65 65,65 65,-29.12 65,-65 -29.12,-65 -65,-65zM80,25c30.36,0 55,24.64 55,55s-24.64,55 -55,55 -55,-24.64 -55,-55 24.64,-55 55,-55z"
+      android:fillColor="#A020F0"/>
+  <path
+      android:pathData="m90,51.25a11.25,11.25 89.97,1 1,-22.5 0,11.25 11.25,89.97 1,1 22.5,0z"
+      android:fillColor="#A020F0"/>
+  <path
+      android:pathData="m90.67,110.96c-0.07,2.73 1.21,3.5 4.33,3.82l5.01,0.1v5.12h-39.07v-5.12l5.5,-0.1c3.29,-0.1 4.08,-1.38 4.33,-3.82v-30.81c0.04,-4.88 -6.3,-4.11 -10.76,-3.97v-5.07l30.67,-1.11"
+      android:fillColor="#A020F0"/>
+</vector>
